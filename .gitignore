@@ -4,7 +4,7 @@
 /out-tsc
 
 # dependencies
-/node_modules
+/ngx-cypress-tests/node_modules
 
 # IDEs and editors
 /.idea
@@ -16,7 +16,7 @@
 *.sublime-workspace
 
 # IDE - VSCode
-.vscode/*
+/ngx-cypress-test/.vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
